@@ -2,7 +2,7 @@
 
 This is the first project in the **Deep Learning Projects Collection**. It covers essential concepts in deep learning, helping you build a solid foundation using TensorFlow and practical notebooks in Google Colab.
 
----
+
 
 ## 📚 Concepts I Explored
 
